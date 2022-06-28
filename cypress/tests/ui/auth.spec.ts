@@ -172,3 +172,5 @@ describe("User Sign-up and Login", function () {
     cy.visualSnapshot("Sign In, Invalid Username, Username or Password is Invalid");
   });
 });
+
+//test for github
