@@ -21,6 +21,7 @@
     <img src="https://percy.io/static/images/percy-badge.svg" />
   </a>
   
+  
    <a href="#contributors-">
     <img src="https://img.shields.io/badge/all_contributors-6-green.svg?style=flat" />
   </a>
